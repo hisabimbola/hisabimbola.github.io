@@ -13,12 +13,14 @@
             &nbsp;&nbsp;&nbsp;
             <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
-          <!-- <small>{{ site.pages_list }}</small> -->
         </h3>
       </header>
 
       <main>
         {{ content }}
+
+        {% include comments.html %}
+
       </main>
 
       <footer class="footer">

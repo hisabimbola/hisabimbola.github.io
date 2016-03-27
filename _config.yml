@@ -29,6 +29,9 @@ author:
   url:               https://twitter.com/hisabimbola
   email:             hisabimbola@gmail.com
 
+# Enable comments
+comments: true
+
 # Custom vars
 version:             0.0.1
 github:
