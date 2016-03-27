@@ -10,6 +10,12 @@ shorturl:            hisabimbola.com
 paginate:            1
 baseurl:             ""
 
+# Navbar
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
