@@ -51,3 +51,5 @@ This would update the webdriver that your app is using
 and voila, the error should be gone, and you should see a selenium folder in the protractor folder in your app
 
 You can drop a comment if you have any other question
+
+{% include twitter_plug.html %}

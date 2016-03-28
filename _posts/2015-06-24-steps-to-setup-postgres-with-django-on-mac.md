@@ -130,3 +130,4 @@ Then you have successfully setup Postgres with your Django app, if you encounter
 
 Great thanks to my colleagues [Ifedapo](https://ng.linkedin.com/pub/ifedapo-olarewaju/82/b5/86) and [Eniola](https://ng.linkedin.com/pub/arinde-eniola/32/b03/763) that helped me in solving this and other issues I had when setting up. Gracias
 
+{% include twitter_plug.html %}

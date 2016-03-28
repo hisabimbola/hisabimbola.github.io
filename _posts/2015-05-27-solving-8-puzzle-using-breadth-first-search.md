@@ -275,4 +275,5 @@ Can you suggest ways to improve this? Of course Yes! Please use the comment sect
 
 Currently working on implementing this with A* algorithm, Nick said that is way faster. So my next blog post should be that
 
-Thanks and share to your friends.
+
+{% include twitter_plug.html %}

@@ -112,3 +112,5 @@ So dear reader, regardless of the situation you find yourself, remember that
 > If YOU can believe it, YOU can achieve it
 
 Shalom!!!
+
+{% include twitter_plug.html %}

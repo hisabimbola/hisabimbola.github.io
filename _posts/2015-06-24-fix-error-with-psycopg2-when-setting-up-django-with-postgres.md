@@ -42,3 +42,5 @@ sudo ln -s Applications/Postgres.app/Contents/Versions/9.4/lib/libpq.5.dylib /us
 So I did that, and it fixed the issue.
 
 I hope this post helps someone and save you of hours of debugging and thanks to my colleagues [Ifedapo](https://ng.linkedin.com/pub/ifedapo-olarewaju/82/b5/86) and [Eniola](https://ng.linkedin.com/pub/arinde-eniola/32/b03/763) that helped me in solving this and other issues I had when setting up. Gracias
+
+{% include twitter_plug.html %}

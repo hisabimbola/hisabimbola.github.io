@@ -36,3 +36,5 @@ Below is my slide for the presentation, or you can [visit here to view it on sli
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/xpQ23XU9NLLqLD" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 I hope to complete the workshop soon, where I would be introducing fast algorithms and other types of medium share.
+
+{% include twitter_plug.html %}
