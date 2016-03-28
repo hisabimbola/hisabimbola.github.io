@@ -1,0 +1,151 @@
+//colors
+$color_rolling_stone_approx: #778187;
+$color_concrete_approx: #f2f2f3;
+$white: white;
+$black_15: rgba(0,0,0,0.15);
+$color_apple_approx: #59b329;
+
+.tags-heading {
+  height: 2em;
+  line-height: 2em;
+  margin-bottom: 1em;
+  > h4 {
+    margin: 0;
+    line-height: inherit;
+  }
+}
+.tags-toggle {
+  display: none;
+  text-align: center;
+  font-weight: bold;
+  &:before {
+    content: "\e010";
+    margin-right: .5em;
+  }
+}
+.tags-list {
+  overflow: hidden;
+  line-height: 1.5em;
+  > li {
+    float: left;
+    list-style-type: none;
+    margin: 0 .8em .8em 0;
+  }
+}
+.tag {
+  display: block;
+  padding-left: .6em;
+  padding-right: .6em;
+  line-height: inherit;
+  font-size: .9375em;
+  font-weight: normal;
+  color: $color_rolling_stone_approx;
+  background: $color_concrete_approx;
+}
+@media(max-width: 62em) {
+  .tags-list {
+    margin: 0 -.5em;
+    text-align: center;
+    > li {
+      display: inline-block;
+      list-style-type: none;
+      vertical-align: top;
+      float: none;
+      margin: 0 .5em 1em;
+    }
+  }
+  .tags-heading > h4 {
+    text-align: center;
+  }
+}
+@media(max-width: 35em) {
+  .tags-list {
+    display: none;
+  }
+  .tags-toggle {
+    display: block;
+  }
+  .tabs {
+    margin-bottom: 2em;
+    line-height: 2.5em;
+  }
+  .tabs-link {
+    font-size: 1em;
+    width: 33% !important;
+    margin-bottom: .75em;
+    &:first-child {
+      width: 34% !important;
+    }
+    &:nth-child(4) {
+      width: 34% !important;
+      //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+      border-radius: 2px 0 0 2px;
+    }
+    &:nth-child(3) {
+      //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+      border-radius: 0 2px 2px 0;
+    }
+    &:last-child {
+      //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+      border-radius: 0 2px 2px 0;
+    }
+  }
+  .tags.active {
+    .tags-toggle {
+      display: none;
+    }
+    > {
+      .tags-list {
+        display: block;
+      }
+      .tags-heading > h4 {
+        display: block;
+      }
+    }
+  }
+  .tags-heading > h4 {
+    display: none;
+  }
+}
+.tabs {
+  margin-bottom: 3em;
+  line-height: 3em;
+  text-align: center;
+  overflow: hidden;
+  clear: both;
+}
+.tabs-link {
+  position: relative;
+  float: left;
+  width: 16%;
+  line-height: inherit;
+  padding-left: 0;
+  padding-right: 0;
+  font-size: 1.125em;
+  color: $color_rolling_stone_approx;
+  //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+  border-radius: 0;
+  &:first-child {
+    //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+    border-radius: 2px 0 0 2px;
+    width: 17%;
+  }
+  &:last-child {
+    //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+    border-radius: 0 2px 2px 0;
+    width: 17%;
+  }
+  &:nth-child(3) {
+    width: 17%;
+  }
+  &:nth-child(4) {
+    width: 17%;
+  }
+  &.active {
+    color: $white;
+    //Instead of the line below you could use @include text-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+    text-shadow: 0 1px $black_15;
+    background: $color_apple_approx;
+    cursor: default;
+  }
+}

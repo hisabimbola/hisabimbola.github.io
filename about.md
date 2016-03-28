@@ -3,28 +3,83 @@ layout: page
 title: About
 ---
 
+![On a outing with my friends Feb 2016](/assets/about-banner.png)
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Am Abimbola, a Software Developer with a mission!
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is Abimbola Idowu and I am a Software Developer.
 
-There are currently two themes built on Poole:
+I am a Software Engineer at [AsokoInsight](https://asokoinsight.com/).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Before AsokoInsight, I was part of the engineering team at [Andela](http://andela.com), building systems that powers the organization.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+**Technologies I have worked with:**
 
-## Setup
+<ul class="tags-list">
+  <li>
+    <span class="tag">Javascript</span>
+  </li>
+  <li>
+    <span class="tag">NodeJS</span>
+  </li>
+  <li>
+    <span class="tag">ExpressJS</span>
+  </li>
+  <li>
+    <span class="tag">HapiJS</span>
+  </li>
+  <li>
+    <span class="tag">MongoDB</span>
+  </li>
+  <li>
+    <span class="tag">PostgreSQL</span>
+  </li>
+  <li>
+    <span class="tag">Elasticsearch</span>
+  </li>
+  <li>
+    <span class="tag">Neo4j</span>
+  </li>
+  <li>
+    <span class="tag">AngularJS</span>
+  </li>
+  <li>
+    <span class="tag">RabbitMQ</span>
+  </li>
+  <li>
+    <span class="tag">CoffeeScript</span>
+  </li>
+  <li>
+    <span class="tag">ES6</span>
+  </li>
+  <li>
+    <span class="tag">TDD</span>
+  </li>
+  <li>
+    <span class="tag">Agile</span>
+  </li>
+  <li>
+    <span class="tag">Git</span>
+  </li>
+  <li>
+    <span class="tag">Github</span>
+  </li>
+  <li>
+    <span class="tag">Bitbucket</span>
+  </li>
+  <li>
+    <span class="tag">Material Design</span>
+  </li>
+</ul>
 
-Some fun facts about the setup of this project include:
+I hope to blog about myself and my programming experience on this site.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## My Profiles
+* Github: [https://github.com/hisabimbola](https://github.com/hisabimbola)
+* Twitter: [https://twitter.com/hisabimbola](https://twitter.com/hisabimbola)
+* NPM: [https://www.npmjs.com/~hisabimbola](https://www.npmjs.com/~hisabimbola)
+* Medium: [https://www.medium.com/@hisabimbola](https://www.medium.com/@hisabimbola)
+* LinkedIn: [https://ng.linkedin.com/in/hisabimbola](https://ng.linkedin.com/in/hisabimbola)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks for reading.
