@@ -21,7 +21,7 @@ categories:
 - TDD
 tags: []
 comments: []
-permalink: fix-error-no-selenium-server-jar-found-with-protractor
+permalink: fix-error-no-selenium-server-jar-found-with-protractor/
 ---
 
 End to end testing with protractor is very important for developers doing [BDD](http://en.wikipedia.org/wiki/Behavior-driven_development "BDD") or [TDD](http://en.wikipedia.org/wiki/Test-driven_development "TDD") and using Angular

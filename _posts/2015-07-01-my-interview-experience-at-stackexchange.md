@@ -12,7 +12,7 @@ author_login: hisabimbola
 author_email: admin@blog.hisabimbola.com
 wordpress_id: 145
 wordpress_url: http://www.hisabimbola.com/?p=145
-permalink: my-interview-experience-at-stackexchange
+permalink: my-interview-experience-at-stackexchange/
 date: '2015-07-01 06:16:00 +0100'
 date_gmt: '2015-07-01 06:16:00 +0100'
 categories:

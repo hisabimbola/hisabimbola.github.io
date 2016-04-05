@@ -18,7 +18,7 @@ categories:
 - programming
 tags: []
 comments: []
-permalink: fix-error-with-psycopg2-when-setting-up-django-with-postgres
+permalink: fix-error-with-psycopg2-when-setting-up-django-with-postgres/
 ---
 
 Recently, I wanted to start a Django project, and this time I decided to use PostgreSQL as my database instead of SQLite, and I ran into this error when I run

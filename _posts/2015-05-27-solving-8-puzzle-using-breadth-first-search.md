@@ -58,7 +58,7 @@ comments:
     it can be applied to a large collection of practical problems such as finding
     driving directions between two addresses in the same city using the fewest number
     of turns, often referred to as the "least confusing directions".
-permalink: solving-8-puzzle-using-breadth-first-search
+permalink: solving-8-puzzle-using-breadth-first-search/
 ---
 
 During the [Andela-Stack Overflow mentorship programme](http://blog.stackoverflow.com/2015/05/stack-overflow-and-andela-partner-to-provide-education-beyond-borders/), my mentor [Nick](http://stackoverflow.com/users/178082/nick-larsen), gave me a task to solve [8-puzzle](http://www.8puzzle.com/8_puzzle_problem.html) using the [breadth-first search algorithm](http://en.wikipedia.org/wiki/Breadth-first_search).

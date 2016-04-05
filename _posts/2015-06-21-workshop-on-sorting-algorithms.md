@@ -20,7 +20,7 @@ tags:
 - sorting
 - algorithms
 comments: []
-permalink: workshop-on-sorting-algorithms
+permalink: workshop-on-sorting-algorithms/
 ---
 
 I conducted a workshop where I introduced sorting algorithms to my colleagues at [andela](http://www.andela.com).

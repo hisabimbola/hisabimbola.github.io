@@ -22,7 +22,7 @@ tags:
 - setup
 - mac
 comments: []
-permalink: steps-to-setup-postgres-with-django-on-mac
+permalink: steps-to-setup-postgres-with-django-on-mac/
 ---
 
 Recently I started a Django project and for this project, I decided to use PostgreSQL inside of the default SQLite that comes with Django on a mac.

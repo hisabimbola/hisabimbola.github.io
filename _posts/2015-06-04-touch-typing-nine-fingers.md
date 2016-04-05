@@ -70,7 +70,7 @@ comments:
   content: Cool. My issue is that I have already mastered my keyboard but with just
     two fingers.  :D
 
-permalink: touch-typing-nine-fingers
+permalink: touch-typing-nine-fingers/
 ---
 [![dont-limit-yourself](assets/dont-limit-yourself.png)](assets/dont-limit-yourself.png)
 
