@@ -38,8 +38,7 @@ version:             0.0.1
 github:
   repo:              https://github.com/hisabimbola/hisabimbola.github.io
 
-# Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-redirect-from
