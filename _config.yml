@@ -28,7 +28,7 @@ sass:
 author:
   name:              Idowu Abimbola
   url:               https://twitter.com/hisabimbola
-  email:             hisabimbola@gmail.com
+  email:             contactme@abi.idowu.net
 
 # Enable comments
 comments: true
@@ -38,8 +38,7 @@ version:             0.0.1
 github:
   repo:              https://github.com/hisabimbola/hisabimbola.github.io
 
-# Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-redirect-from
